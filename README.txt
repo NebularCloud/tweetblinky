@@ -21,7 +21,8 @@ this case).
 Hardware
 --------
 
-You need the following:
+You need the following:
+
  * Rasbperry Pi running the latest release of Raspbian
  * USB cable and wall charger to power the Raspberry Pi
  * Ethernet or WiFi for the Raspberry Pi
